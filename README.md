@@ -6,7 +6,7 @@ To automatically pick and  place the SMD electronic components onto a single bar
 # Apparatus required:
 
 1.Pick and Place machine <br>
-2.Components <br>
+2.Components <br> 
 3.Single Bare board with solder paste<br>
 
 # Procedure:
